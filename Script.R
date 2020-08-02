@@ -1,3 +1,5 @@
+## Refer https://github.com/rohanlopes20/PracticalMLProject/blob/master/README.md for more details
+
 ## download function
 downloadcsv <- function(url, nastrings) {
       temp <- tempfile()
